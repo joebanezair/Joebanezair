@@ -2,3 +2,8 @@ https://www.youtube.com/watch?v=mgtfxtjKoaA&t=101s
 https://www.youtube.com/watch?v=aer8S1fFbNc&t=305s
 
 SqlConnection //install package by clicking the ilaw btn then install SqlCommands
+
+SQL CONNECTION STRING
+
+lagyan ng @ at palitan yung "" ng ''
+@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='D:\Visual Blend\WPF Projects\Prototype\Prototype\FirstDB.mdf';Integrated Security=True"
